@@ -5,3 +5,4 @@ dist/
 *.pyc
 *.tmp
 .cache/
+coverage/
