@@ -10,3 +10,4 @@ Notes and usage details for OnePagent.
 - add a note about the defaults
 - clarify the setup steps
 - link the usage section
+- fix a small wording issue
